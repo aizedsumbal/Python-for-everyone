@@ -24,5 +24,5 @@ list.extend(list_2)
 print(len(list))
 
 # printing the elements of the list inside of a loop
-for i in range(0,len(list)):
-    print("element",i,"=",list[i])
+for i in range(0, len(list)):
+    print("element", i, "=", list[i])
